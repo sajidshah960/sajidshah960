@@ -1,8 +1,8 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 Here’s a professional and friendly README template for your GitHub profile! You can copy this into a file named README.md in a repository called sajidshah960 (this is how GitHub displays profile READMEs).
 
----
+-->
 
 # 👋 Hi, I'm Sajid Shah
 
