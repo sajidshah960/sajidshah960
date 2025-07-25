@@ -27,9 +27,8 @@ Feel free to browse through my pinned repositories or check out my repo list for
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sajidshah960) *(Add your link here!)*
-- [Twitter](https://twitter.com/sajidshah960) *(Add your link here!)*
-
+- [LinkedIn](https://www.linkedin.com/in/sajidshah960)
+- [Twitter](https://twitter.com/sajidshah960)
 ## 📫 How to Reach Me
 
 If you’d like to collaborate, discuss ideas, or just say hello, you can reach out through [GitHub Issues](https://github.com/sajidshah960/sajidshah960/issues), or send me a message on LinkedIn/Twitter.
